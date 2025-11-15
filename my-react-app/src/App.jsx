@@ -48,9 +48,6 @@ export default function App() {
       <footer className="text-center text-gray-500 text-sm py-12 mt-16">
         © {new Date().getFullYear()} Your Name. All rights reserved.
       </footer>
-      <div className="p-10 bg-red-500 text-white">
-  If this is red, Tailwind works!
-</div>
     </div>
   );
 }
